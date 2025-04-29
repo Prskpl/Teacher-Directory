@@ -1,7 +1,7 @@
 Teacher Directory App
 A simple full-stack application using Flutter (frontend), Flask (backend), and MongoDB (database) to manage and display a list of teachers.
 
-🛠 Tech Stack
+Tech Stack:
 Frontend: Flutter
 
 Backend: Flask (Python)
